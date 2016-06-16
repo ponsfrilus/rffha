@@ -2,9 +2,11 @@
 // @name         Remove footer from hastexo academy
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Remove footer from hastexo academy
 // @author       Nicolas Borboën
 // @match        https://academy.hastexo.com/courses/*
+// @downloadURL  https://raw.githubusercontent.com/ponsfrilus/rffha/master/rffha.js
+// @updateURL    https://raw.githubusercontent.com/ponsfrilus/rffha/master/rffha.js
 // @grant        none
 // ==/UserScript==
 
